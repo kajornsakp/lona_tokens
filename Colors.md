@@ -50,3 +50,7 @@ let yellow: Color = #color(css: "#F59F00")
 let orange: Color = #color(css: "#F76707")
 ```
 
+```tokens
+let green100: Color = #color(css: "#46FF7C")
+```
+
